@@ -4,9 +4,9 @@ My name is Jon Mongeau, welcome to my github.
 
 ## About Me
 - I work as a senior software developer at [Bell Canada](https://www.bce.ca/) focusing on internal automation👨‍💻 tools for our cloud team.
-- I graduated with a degree🎓 in Software Engineering from Concordia University 
+- I graduated with a degree🎓 in Software Engineering from Concordia University.
 - My programming language of choice is python🐍 with typescript being a close second.
-- When I'm not working on cool stuff you can catch me playing volleyball🏐, going camping🏕️, or gaming🕹️ with friends
+- When I'm not working on cool stuff you can catch me playing volleyball🏐, going camping🏕️, or gaming🕹️ with friends.
 
 ## My Work
 In my time at BCE, I've had the oppurtunity to tackle many challenges and projects. Lately, I've been leading a team of 8 developers in building an internal firewall request automation platform. BCE's network is complex and enabling firewall traffic requires an operations team to do a lot of the heavy lifting for determining what policies to open and on which firewalls. Our dev team designed a new user intake process, an advanced routing algorithm to determine the firewall devices in the network path, and automatic grouping and writing of firewall policies on those firewalls. I learned a lot about leadership, networking and system design over the course of the last few years working on this project.
